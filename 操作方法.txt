@@ -1,0 +1,5 @@
+cd C:\git\
+git add .
+git commit -m "commit message"
+git remote add origin https://github.com/NaokiImamura/origin.git
+git push -u origin master
